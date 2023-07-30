@@ -1,9 +1,9 @@
 #!/bin/bash
 #===================================================
 #	SCRIPT: OTIMIZAR	D-NET-VPN-PRO
-#	DESENVOLVIDO POR:	luffyelbrabo
+#	DESENVOLVIDO POR:	D-NET-VPN
 #	CONTATO TELEGRAM:	http://t.me/luffyelbrabo
-#	CANAL TELEGRAM:	http://t.me/luffyelbrabo2
+#	GRUPO TELEGRAM:	http://t.me/luffyelbrabo_grupo_ofc
 #===================================================
 fun_bar() {
 	comando[0]="$1"

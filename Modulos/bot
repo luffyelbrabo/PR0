@@ -1,11 +1,11 @@
 #!/bin/bash
 #===================================================
 #   SCRIPT: BOT D-NET-VPN-PRO
-#   DATA ATT: 18 de JuL 2022
+#   DATA ATT: 30 de JuL 2023
 #   DESENVOLVIDO POR: LUFFYELBRABO
-#   API SHELLBOT: D-NET-VPN-PRO
+#   API SHELLBOT: LUFFYELBRABO
 #   CONTATO TELEGRAM: http://t.me/luffyelbrabo
-#   CANAL TELEGRAM: http://t.me/luffyelbrabo2
+#   GRUPO TELEGRAM: http://t.me/luffyelbrabo_grupo_ofc
 #===================================================
 [[ ! -d /etc/SSHPlus ]] && exit 0
 [[ ! -d /etc/bot ]] && exit 0

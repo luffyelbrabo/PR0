@@ -3,7 +3,7 @@
 #	SCRIPT: LIMITER SSHPLUS MANAGER
 #	DESENVOLVIDO POR:	LUFFYELBRABO
 #	CONTATO TELEGRAM:	http://t.me/luffyelbrabo
-#	CANAL TELEGRAM:	http://t.me/luffyelbrabo2
+#	GRUPO TELEGRAM:	http://t.me/luffyelbrabo_grupo_ofc
 #====================================================
 clear
 system=$(cat /etc/issue.net)
